@@ -1,4 +1,4 @@
-# Project_1...-WORLD
+# Project_1 - WORDLE
 
 Time spent: 42 hours spent in total
 
